@@ -1,4 +1,4 @@
-package com.ashwin.java;
+package com.github.ashwindmk;
 
 import java.math.BigDecimal;
 
